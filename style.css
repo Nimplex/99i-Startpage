@@ -83,3 +83,9 @@ body {
 #container #links .con .list i {
   padding-right: 8px;
 }
+
+@media screen and (max-width: 600px) {
+  .con:last-child {
+    display: none;
+  }
+}
