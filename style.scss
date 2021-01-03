@@ -18,6 +18,7 @@ body {
   -moz-transition: none !important;
   -ms-transition: none !important;
   -o-transition: none !important;
+  transition: none !important;
 }
 
 #container {
@@ -60,7 +61,7 @@ body {
           transition: color 0.2s;
         }
         a:hover {
-          color: rgb(207, 207, 207);
+          color: rgb(189, 189, 189);
           transition: color 0.2s;
         }
         i {
