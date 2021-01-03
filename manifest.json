@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+  "name": "99i",
+  "version": "1.0",
+  "description": "Startpage",
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "permissions": [
+    "tabs"
+  ]
+}
