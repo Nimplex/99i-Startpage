@@ -85,7 +85,7 @@ body {
 }
 
 @media screen and (max-width: 600px) {
-  .con:last-child {
+  .last {
     display: none;
   }
 }
